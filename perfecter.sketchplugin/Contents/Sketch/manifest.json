@@ -1,0 +1,25 @@
+{
+  "name": "Perfect",
+  "description": "Perfect your typography",
+  "author": "Oleg Frolov",
+  "authorEmail": "frolololeg@gmail.com",
+  "homepage": "https://github.com/Volorf/Perfecter",
+  "version": 1.0,
+  "identifier": "com.example.sketch.perfecter",
+  "compatibleVersion": 1,
+  "bundleVersion": 1,
+  "commands": [
+    {
+      "name": "Perfect Line Height",
+      "identifier": "perfectLineHeight",
+      "shortcut": "ctrl shift l",
+      "script": "perfecter.js",
+      "handler": "perfectLineHeightFunc"
+    }
+  ],
+  "menu": {
+    "items": [
+      "perfectLineHeight"
+    ]
+  }
+}
