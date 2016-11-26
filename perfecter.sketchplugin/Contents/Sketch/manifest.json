@@ -1,5 +1,5 @@
 {
-  "name": "Perfect",
+  "name": "Perfecter",
   "description": "Perfect your typography",
   "author": "Oleg Frolov",
   "authorEmail": "frolololeg@gmail.com",
@@ -10,16 +10,24 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "Perfect Line Height",
+      "name": "Perfect a Line Height",
       "identifier": "perfectLineHeight",
       "shortcut": "ctrl shift l",
       "script": "perfecter.js",
       "handler": "perfectLineHeightFunc"
+    },
+    {
+      "name": "Perfect a Font Size",
+      "identifier": "perfectFontSize",
+      "shortcut": "ctrl shift f",
+      "script": "perfecter.js",
+      "handler": "perfectFontSizeFunc"
     }
   ],
   "menu": {
     "items": [
-      "perfectLineHeight"
+      "perfectLineHeight",
+      "perfectFontSize"
     ]
   }
 }

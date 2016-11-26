@@ -1,19 +1,18 @@
 function perfectLineHeightFunc(context) {
-	superMainFunc("perfectLineHeight")
+	superMainFunc(context, "perfectLineHeight")
 }
 
 function perfectFontSizeFunc(context) {
-	superMainFunc("perfectFontSize")
+	superMainFunc(context, "perfectFontSize")
 }
 
-function superMainFunc (whatWeDo) {
+function superMainFunc (context, whatWeDo) {
 
 	var doc = context.document,
 		selection = context.selection,
 		layer = selection.firstObject(),
 		fontSizeSelectedTextLayer = 0,
 	  sketch = context.api(),
-		whatWeAreDoing = whatWeDo,
 
 		// Main array. Here you can add a new ratio.
 		arrayRatio = [
@@ -40,7 +39,7 @@ function superMainFunc (whatWeDo) {
 	}
 
 	// Launch a main function
-	perfectSelectedLayer("perfectLineHeight")
+	perfectSelectedLayer()
 
 	function perfectSelectedLayer () {
 		if (selection.length == 0) {
