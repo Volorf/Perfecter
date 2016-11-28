@@ -18,6 +18,7 @@ function superMainFunc (context, whatWeDo) {
 		arrayRatio = [
 			["Golden ratio — 1.618", 1.618],
 			["Silver ratio - 2.214", 2.214],
+			["Default ratio — 1.2", 1.2],
 			["√2 — 1.414", 1.414],
 			["√3 — 1.732", 1.732],
 			["√5 — 2.236", 2.236],
