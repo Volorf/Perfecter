@@ -2,7 +2,7 @@
 
 ##Make great typography!
 
-![Perfecter logo](/perfecter.png)
+![Perfecter logo](/perfecter.png | width=600)
 
 ##The plugin helps you:
 
