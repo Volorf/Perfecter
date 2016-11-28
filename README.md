@@ -16,10 +16,10 @@
 
 ## What can I see here for my typography?
 Here you can see such a perfect ratio as:
-— Golden ratio 💪;
-— Silver ratio 😎;
-— Pi 😍;
-— and more.
+* Golden ratio 💪;
+* Silver ratio 😎;
+* Pi 😍;
+* and more.
 
 ## How to instal this treasure
 1. [Download the zip file with the Perfecter](https://github.com/Volorf/Perfecter/archive/master.zip).
