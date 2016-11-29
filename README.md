@@ -12,7 +12,7 @@
 
 ### 2. Find a perfect Font Size for your text
 
-![Perfect Font Size](/line-height.gif)
+![Perfect Font Size](/font-size.gif)
 
 ## What can I see here for my typography?
 Here you can see such a perfect ratio as:
