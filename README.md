@@ -15,7 +15,7 @@
 ![Perfect Font Size](/font-size.gif)
 
 ## What can I see here for my typography?
-Here you can see such a perfect ratio like:
+Here you can see such a perfect ratio as:
 * Golden ratio 💪;
 * Silver ratio 😎;
 * Pi 😍;
