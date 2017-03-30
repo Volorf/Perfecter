@@ -23,4 +23,4 @@ Here you can see such a perfect ratio like:
 
 ## How to install this treasure
 1. [Download the zip file with the Perfecter](https://github.com/Volorf/Perfecter/archive/master.zip).
-2. Copy the contents to the Plugin Folder (Plugin > Manage Plugins... > [Show Plugins Folder](http://frolovoleg.ru/images/sketch-plugin-folder.png)).
+2. Double click on `perfecter.sketchplugin`.
