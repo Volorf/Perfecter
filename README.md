@@ -6,15 +6,15 @@
 
 ##The plugin helps you:
 
-### 1. Find a perfect Line Height for your text
+### 1. Perfect Line Height for your text
 
 ![A perfect line height](/line-height.gif)
 
-### 2. Find a perfect Font Size for your text
+### 2. Perfect Font Size for your text
 
 ![Perfect Font Size](/font-size.gif)
 
-## What can I see here for my typography?
+## Proportions
 Here you can see such a perfect ratio like:
 * Golden ratio 💪;
 * Silver ratio 😎;
