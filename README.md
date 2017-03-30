@@ -1,6 +1,6 @@
 # Perfecter
 
-##Make great typography!
+## Make great typography!
 
 ![Perfecter logo](/perfecter.png)
 
