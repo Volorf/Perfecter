@@ -4,7 +4,7 @@
 
 ![Perfecter logo](/perfecter.png)
 
-##The plugin helps you:
+## The plugin helps you:
 
 ### 1. Perfect Line Height for your text
 
